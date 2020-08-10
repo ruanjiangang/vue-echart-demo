@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <h2>vue + Echarts 的Demo实现</h2>
+    <p>__by 阮健刚</p>
+    <img alt="Vue logo" src="./assets/logo.png">
     <p>
       <!-- 使用 router-link 组件来导航. -->
       <!-- 通过传入 `to` 属性指定链接. -->
